@@ -2,7 +2,6 @@
 
 I'm a **final year B.Tech IT student** who's nerdy about coding, motion designing , creating real-time projects, and exploring emerging technologies. My forte is  **Python** tho I also have experience in **C++, C, Java**, and basic knowledge of **Kotlin** and **Rust**.  
 
----
 
 ## Skills
 
@@ -19,7 +18,6 @@ Libraries :
 **Web Development:** HTML, CSS, JavaScript, React (learning), Django (learning)  
 **Designing Tools:** Figma, After Effects, Alight Motion, Premiere Pro, Photoshop, Krita, TouchDesigner  
 
----
 
 ## Interests
 
@@ -27,7 +25,6 @@ Libraries :
 - Developing **webcam-based projects** and automation tools  
 - Combining creative design with technical development with TouchDesinger and IDEs 
 
----
 
 ## Hobbies / Other Skills
 
@@ -36,7 +33,6 @@ Libraries :
 - Real time Visuals
 - Audio/Motion Reactive visuals 
 
----
 
 Social Links :
 
