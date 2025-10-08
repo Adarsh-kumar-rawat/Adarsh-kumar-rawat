@@ -1,7 +1,7 @@
 # Hey, I'm Adarsh Kumar Rawat
 A **final year B.Tech IT student** who's nerdy about coding, motion designing, creating real-time projects, and exploring emerging technologies. My forte is **Python**, though I also have experience in **C++, C, Java**, and basic knowledge of **Kotlin** and **Rust**.  
 
----
+--
 
 ##  Skills
 
