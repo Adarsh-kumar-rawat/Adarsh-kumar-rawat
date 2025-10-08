@@ -57,9 +57,3 @@ A **final year B.Tech IT student** who's nerdy about coding, motion designing, c
 
 📧 Email: adarsh0489@gmail.com  
 
-
-
-## Quirky and passionate one, not the suit n tie type :O 
-
-
-![Design GIF](https://i.pinimg.com/originals/45/98/03/459803401c356fece9f4e7173deead5a.gif)
