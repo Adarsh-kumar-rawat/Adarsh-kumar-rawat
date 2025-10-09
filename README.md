@@ -49,5 +49,8 @@ Youtube  - https://www.youtube.com/@imsanzu
 
 Email - adarsh0489@gmail.com
 
-![doodle gif](http://media1.tenor.com/m/8_ddmKw0-CwAAAAd/chainsaw-man-denji.gif)
+<h1 align="center">
+  <img src="https://media1.tenor.com/m/8_ddmKw0-CwAAAAd/chainsaw-man-denji.gif" width="500" />
+</h1>
+
 
