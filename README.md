@@ -50,7 +50,7 @@ Youtube  - https://www.youtube.com/@imsanzu
 Email - adarsh0489@gmail.com
 
 <h1 align="center">
-  <img src="https://media1.tenor.com/m/8_ddmKw0-CwAAAAd/chainsaw-man-denji.gif" width="700" />
+  <img src="https://media1.tenor.com/m/8_ddmKw0-CwAAAAd/chainsaw-man-denji.gif" width="600" style="filter: grayscale(100%); transition: 0.3s;" onmouseover="this.style.filter='grayscale(0%)'" onmouseout="this.style.filter='grayscale(100%)'" />
 </h1>
 
 
