@@ -10,9 +10,9 @@ A **final year B.Tech IT student** who's nerdy about coding, motion designing , 
 - C++, C, Java, Kotlin (basic), Rust (basic)
   
 **Web Development:** 
-- FRONTEND : HTML, CSS, JavaScript, React, Tailwind
-- BACKEND : DJANGO
-- DATABASE : MySQL PostgreSQL
+- Frontend : HTML, CSS, JavaScript, React, Tailwind
+- Backend : DJANGO
+- Database : MySQL, PostgreSQL
 
 Libraries :
 - Numpy
