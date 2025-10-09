@@ -43,8 +43,6 @@ Libraries :
 
 ## Social Links :
 
-LeetCode - https://leetcode.com/u/isanz/
-
 Youtube  - https://www.youtube.com/@imsanzu 
 
 Email - adarsh0489@gmail.com
