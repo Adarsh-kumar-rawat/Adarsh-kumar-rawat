@@ -1,52 +1,46 @@
 # Hey, I'm Adarsh Kumar Rawat  
 
-A **final year B.Tech IT student** who's nerdy about coding, motion designing , creating real-time projects, and exploring emerging technologies. My forte is  **Python** tho I also have experience in **C++, C, Java**, and basic knowledge of **Kotlin** and **Rust**.  
+A **final-year B.Tech IT student** who's nerdy about **coding**, **motion design**, **real-time projects**. Exploring **emerging technologies**. My forte is **Python**, tho I also have experience with **C++, C, Java**, and basic knowledge of **Kotlin** & **Rust**.  
 
 
-## Skills
+## 💻 Skills
 
-**Programming Languages:** 
-- Python (dominant)
-- C++, C, Java, Kotlin (basic), Rust (basic)
-  
-**Web Development:** 
-- Frontend : HTML, CSS, JavaScript, React, Tailwind
-- Backend : DJANGO
-- Database : MySQL, PostgreSQL
+**Programming Languages:**  
+Python (dominant) | C++ | C | Java | Kotlin (basic) | Rust (basic)  
 
-Libraries :
-- Numpy
-- Tkinter
-- Pandas
-- Matplotlib
-- TensorFlow
-- OpenCv
+**Web Development:**  
+- **Frontend:** HTML | CSS | JavaScript | React | Tailwind  
+- **Backend:** Django  
+- **Databases:** MySQL | PostgreSQL  
 
-**Designing Tools:**
-- Figma, After Effects, Alight Motion, Premiere Pro, Photoshop, Krita, TouchDesigner  
+**Libraries & Frameworks:**  
+Numpy | Pandas | Matplotlib | TensorFlow | OpenCV | Tkinter  
+
+**Designing Tools:**  
+Figma | After Effects | Alight Motion | Premiere Pro | Photoshop | Krita | TouchDesigner  
 
 
-## Interests
+## 🌟 Interests
 
-- **Machine Learning** and real-time applications  
+- **Machine Learning** & real-time applications  
 - Developing **webcam-based projects** and automation tools  
-- Combining creative design with technical development with TouchDesinger and IDEs 
+- Combining **creative design** with **technical development** using TouchDesigner & IDEs  
 
 
-## Hobbies / Other Skills
+## 🎨 Hobbies & Other Skills
 
-- Video editing and motion graphics  
-- Digital design and visual storytelling
-- Real time Visuals
-- Audio/Motion Reactive visuals 
+- Video editing & motion graphics  
+- Digital design & visual storytelling  
+- Real-time visuals & audio/motion reactive visuals  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-kumar-rawat&layout=compact&theme=transparent&hide_border=true)
 
-## Social Links :
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-kumar-rawat&layout=compact&theme=transparent&hide_border=true)  
 
-Youtube  - https://www.youtube.com/@imsanzu 
 
-Email - adarsh0489@gmail.com
+## 📫 My Socials
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@imsanzu)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarsh0489@gmail.com)  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/isanz/)
+
 
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Adarsh-kumar-rawat.Adarsh-kumar-rawat)
