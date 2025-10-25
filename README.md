@@ -33,6 +33,14 @@ Figma | After Effects | Alight Motion | Premiere Pro | Photoshop | Krita | Touch
 - Digital design & visual storytelling  
 - Real-time visuals & audio/motion reactive visuals  
 
+## 🧮 Problem Solving Platforms
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f6feb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/isanz)  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/isanz/)
+
+<!-- CF-STATS:START -->
+
+<!-- CF-STATS:END -->
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-kumar-rawat&layout=compact&theme=transparent&hide_border=true)  
 
