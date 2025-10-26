@@ -33,6 +33,9 @@ Figma | After Effects | Alight Motion | Premiere Pro | Photoshop | Krita | Touch
 - Digital design & visual storytelling  
 - Real-time visuals & audio/motion reactive visuals  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-kumar-rawat&layout=compact&theme=transparent&hide_border=true)
+
+
 ## 🧮 Problem Solving Platforms
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1f6feb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/isanz)  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/isanz/)
@@ -41,13 +44,9 @@ Figma | After Effects | Alight Motion | Premiere Pro | Photoshop | Krita | Touch
 
 <!-- CF-STATS:END -->
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-kumar-rawat&layout=compact&theme=transparent&hide_border=true)  
-
-
 ## 📫 My Socials
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarsh0489@gmail.com)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@imsanzu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adarsh-kumar-rawat-261643390/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarsh0489@gmail.com)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@imsanzu)  
 
 
 
