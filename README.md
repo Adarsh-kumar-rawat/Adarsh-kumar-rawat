@@ -1,7 +1,8 @@
-# Hey, I'm Adarsh Kumar Rawat  
+# Hey, I'm Adarsh Kumar Rawat                                                                             
 
 A **final-year B.Tech IT student** who's nerdy about **coding**, **motion design**, **real-time projects**. Exploring **emerging technologies**. My forte is **Python**, tho I also have experience with **C++, C, Java**, and basic knowledge of **Kotlin** & **Rust**.  
-
+  
+**🌐 [My Portfolio](https://adarsh-kumar-rawat.github.io/Portfolio/main.html)**
 
 ## 💻 Skills
 
@@ -46,7 +47,7 @@ Figma | After Effects | Alight Motion | Premiere Pro | Photoshop | Krita | Touch
 
 ## 📫 My Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adarsh-kumar-rawat-261643390/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarsh0489@gmail.com)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@imsanzu)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-00bcd4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adarsh-kumar-rawat.github.io/Portfolio/main.html)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adarsh-kumar-rawat-261643390/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarsh0489@gmail.com)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@imsanzu)  
 
 
 
