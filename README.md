@@ -39,7 +39,7 @@ Figma | After Effects | Alight Motion | Premiere Pro | Photoshop | Krita | Touch
 
 ## 🧮 Problem Solving Platforms
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1f6feb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/isanz)  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/isanz/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f6feb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/isanz)  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/isanz/)  [![AtCoder](https://img.shields.io/badge/AtCoder-00BFFF?style=for-the-badge&logo=atcoder&logoColor=black)](https://atcoder.jp/users/isanz)
 
 <!-- CF-STATS:START -->
 
